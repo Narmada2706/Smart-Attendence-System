@@ -9,7 +9,7 @@ In this project I have created a smart attendence system with ORcode using pytho
 3) pillow
 4) csv
 # Who am I?
-My Name is Narmada .I am Pursuing Third Year in Computer Science And Engineering from SGGS College Nanded.Intelligence Domain.
+My Name is Narmada .I am Pursuing Third Year in Computer Science And Engineering from SGGS College Nanded.
 
 # Other Useful Links:
 https://www.linkedin.com/in/narmada-ugale-b411a61ab/
